@@ -57,8 +57,8 @@ function Data() {
      <h3 className="home__subtitle">MERN STACK WEB DEVLOPER</h3>
      <p className="home__description">I'm creative designer based in India, and I'm very passionate and dedicated to my work.</p>
 
-     <a href="" className="button button--flex">
-        Say Hello
+     <a href="#contact" className="button button--flex">
+         Say Hello
         <svg
                   className="button__icon"
                   xmlns="http://www.w3.org/2000/svg"

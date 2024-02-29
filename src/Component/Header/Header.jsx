@@ -2,6 +2,13 @@ import React, { useState } from "react";
 import "./Header.css";
 
 function Header() {
+  // change background heder
+  window.addEventListener("scroll",function(){
+    const header = document.querySelector(".header");
+    if (this.scrollY >= 80) header.classList.add("scroll-header");
+    else header.classList.remove("scroll-header");
+
+  });
   //--------- Toogle menu ------------
   const [Toggle, showMenu]= useState(false)
   return (

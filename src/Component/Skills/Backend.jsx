@@ -8,16 +8,16 @@ function Backend() {
     <div className="skills__box">
         <div className="skills__group">
             <div className="skills__data">
-            <i className='bx bx-badge-check'></i>
+            <i class='bx bxs-data'></i>
 
             <div>
-                <h3 className="skills__name">Node.js</h3>
+                <h3 className="skills__name">MySQL</h3>
                 <span className="skills__level">Intermediate</span>
             </div>
             </div>
 
             <div className="skills__data">
-            <i className='bx bx-badge-check'></i>
+            <i class='bx bxl-mongodb' ></i>
 
             <div>
                 <h3 className="skills__name">MongoDB</h3>
@@ -26,7 +26,7 @@ function Backend() {
             </div>
 
             <div className="skills__data">
-            <i className='bx bx-badge-check'></i>
+            <i class='bx bxl-nodejs' ></i>
 
             <div>
                 <h3 className="skills__name">Express.js</h3>
@@ -37,7 +37,7 @@ function Backend() {
 
         <div className="skills__group">
             <div className="skills__data">
-            <i className='bx bx-badge-check'></i>
+            <i class='bx bxl-python'></i>
 
             <div>
                 <h3 className="skills__name">Python</h3>
@@ -46,7 +46,7 @@ function Backend() {
             </div>
 
             <div className="skills__data">
-            <i className='bx bx-badge-check'></i>
+            <i class='bx bxl-firebase' ></i>
 
             <div>
                 <h3 className="skills__name">Firebase</h3>
@@ -55,7 +55,7 @@ function Backend() {
             </div>
 
             <div className="skills__data">
-            <i className='bx bx-badge-check'></i>
+            <i class='bx bxl-github' ></i>
 
             <div>
                 <h3 className="skills__name">GitHub</h3>
