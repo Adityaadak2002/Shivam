@@ -5,7 +5,7 @@ function Foter() {
   return (
     <footer className="footer">
         <div className="footer__container container">
-            <h1 className="footer__title">Aditya Adak</h1>
+            <h1 className="footer__title">Shivam Birla</h1>
 
             <ul className="footer__list">
                 <li>
@@ -23,18 +23,18 @@ function Foter() {
 
             <div className="footer__social">
             <a
-        href="https://www.instagram.com/adityaadak_/"
+        href="https://www.instagram.com/shivam_birla01/"
         className="footer__social-link"
         target="_blank"
       >
         <i className="bx bxl-instagram"></i>
       </a>
 
-      <a href="https://www.linkedin.com/in/adity-adak-108a83277/" className="footer__social-link" target="_blank">
+      <a href="https://www.linkedin.com/in/shivam-birla-0b07a7241/" className="footer__social-link" target="_blank">
          <i className="bx bxl-linkedin"></i>
       </a>
 
-      <a href="https://github.com/Adityaadak2002" className="footer__social-link" target="_blank">
+      <a href="https://github.com/Shivambirla8" className="footer__social-link" target="_blank">
         <i className="bx bxl-github"></i>
       </a>
         </div>

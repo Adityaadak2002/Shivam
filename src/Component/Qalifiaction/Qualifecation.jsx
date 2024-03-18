@@ -23,7 +23,7 @@ function Qualifecation() {
               <div>
                 <h3 className="qualification__title">B.tech in (IT)</h3>
                 <span className="qualification__subtitle">
-                  Vikrant group of institution indore
+                Swami Vivekanand College of Engineering 
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender"></i> 2021-Present

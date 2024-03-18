@@ -10,8 +10,8 @@ const Contact = ()=> {
     e.preventDefault();
 
     emailjs
-      .sendForm('service_25th46o', 'template_39zhk1h', form.current, {
-        publicKey: 'nKYczNj_xdlyXYTz7',
+      .sendForm('service_as5iwj2', 'template_50oa7cn', form.current, {
+        publicKey: 'ZMw7_4HaQnig9RXAa',
       })
       e.target.reset()
   };
@@ -31,11 +31,11 @@ const Contact = ()=> {
               <i className="bx bx-mail-send contact__card-icon"></i>
               <h3 className="contact__card-title">Email</h3>
               <span className="contact__card-data">
-                adityaadak2002@gmail.com
+                shivambirla222@gmail.com
               </span>
 
               <a
-                href="mailto:adityaadak2002@gmail.com.com"
+                href="mailto:Shivambirla@gmail.com.com"
                 className="contact__button"
               >
                 Click to Write me
@@ -47,10 +47,10 @@ const Contact = ()=> {
             <div className="contact__card">
               <i className="bx bxl-whatsapp contact__card-icon"></i>
               <h3 className="contact__card-title">Whatsapp</h3>
-              <span className="contact__card-data">+91 8817697384</span>
+              <span className="contact__card-data">+91 7489276597</span>
 
               <a
-                href="https://api.whatsapp.com/send?phone=62214408789&text=Hello, more information!"
+                href="https://api.whatsapp.com/send?phone=917489276597&text=Hello, more information!"
                 className="contact__button"
               >
                 Click to Write me
@@ -62,9 +62,9 @@ const Contact = ()=> {
             <div className="contact__card">
               <i className="bx bxl-messenger contact__card-icon"></i>
               <h3 className="contact__card-title">Instagram</h3>
-              <span className="contact__card-data">adityaadak_</span>
+              <span className="contact__card-data">shivam_birla01</span>
 
-              <a href="https://ig.me/m/adityaadak_" className="contact__button">
+              <a href="https://www.instagram.com/direct/inbox/" className="contact__button">
               Click to Write me
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
