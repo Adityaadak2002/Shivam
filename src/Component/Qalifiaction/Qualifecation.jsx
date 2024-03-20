@@ -26,7 +26,7 @@ function Qualifecation() {
                 Swami Vivekanand College of Engineering 
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender"></i> 2021-Present
+                  <i className="uil uil-calender"></i> 2020-2024
                 </div>
               </div>
 
